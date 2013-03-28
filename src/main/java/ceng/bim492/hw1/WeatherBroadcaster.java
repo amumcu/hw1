@@ -13,7 +13,7 @@ import java.util.List;
  */
 public class WeatherBroadcaster implements IObservee{
 
-    private float temprature = 10;  // temprature in celcius
+    private float temprature = 10;  // temprature in celcius asa
 
 
     private List<IObserver> observerList ;
